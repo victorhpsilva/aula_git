@@ -1,0 +1,5 @@
+Usando o protocolo SSH, você pode se conectar a servidores e serviços remotos e se autenticar neles. Com
+chaves SSH, você pode conectar-se a GitHub sem inserir seu nome de usuário e token de acesso pessoal em
+cada visita.
+Ao configurar o SSH, você precisará gerar uma nova chave SSH e adicioná-la ao agente SSH. Você deve
+adicionar a chave SSH à sua conta GitHub antes de usar a chave para efetuar a autenticação
