@@ -1,0 +1,2 @@
+Para inserir todos os arquivos utilize git add * ou git .
+Para inserir apenas um arquivo, utilize git add nome_arquivo
