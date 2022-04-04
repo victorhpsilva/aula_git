@@ -1,0 +1,2 @@
+Para testar a conexão entre repositório local e repositório remoto, após inserir a chave SSH, 
+digite o seguinte comando: ssh -T git@github.com
